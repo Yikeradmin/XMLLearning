@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <data-item id="1">
+        <sender>张三</sender>
+        <receiver>   李四</receiver>
+        <src>北京</src>
+        <current>                    武汉</current>
+        <dest>   广州</dest>
+    </data-item>
+    <data-item id="2">
+        <sender>张三</sender>
+        <receiver>李四</receiver>
+        <src>北京</src>
+        <current>武汉</current>
+        <dest>广州</dest>
+    </data-item>
+    <data-item id="3">
+        <sender>张三</sender>
+        <receiver>李四</receiver>
+        <src>北京</src>
+        <current>武汉</current>
+        <dest>广州</dest>
+    </data-item>
+    <data-item id="4">
+        <sender>张三</sender>
+        <receiver>李四</receiver>
+        <src>北京</src>
+        <current>武汉</current>
+        <dest>广州</dest>
+    </data-item>
+    <data-item id="5">
+        <sender>张三</sender>
+        <receiver>李四</receiver>
+        <src>北京</src>
+        <current>武汉</current>
+        <dest>广州</dest>
+    </data-item>
+</data>
